@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to HQ banking system related QA APIs for account service"
   contactDetails:
     name: "Hoang Quan - Product owner"
-    email: "quanabc@gmail.com"
+    email: "{cipher}0e0c0a1b483c5e4862b55f2190572e697a0b847dbf1ee67eca132968fdd6f4b685786cce5d9b41039027aebbcbf0b3a9"
   onCallSupport:
     - (84) 368 299 999
     - (84) 368 499 999
